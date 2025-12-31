@@ -1,2 +1,2 @@
-<center><h1>Hi 👋, Iam Venkateswara Reddy Javvaji</h1></center>
+<center><h1>Hi 👋, I'm Venkateswara Reddy Javvaji</h1></center>
 <h3>Motivated and technically driven software engineering student currently completing my graduation, with a solid understanding of C, Python, Java Full Stack, Salesforce Administration, and Frontend Technologies. Passionate about building real-world applications, exploring new technologies, and solving complex problems through clean and efficient code. I enjoy working in collaborative environments and continuously improving my skills. Seeking an entry-level software engineering opportunity where I can apply my knowledge, contribute to impactful projects, and grow into a strong professional in the tech industry.</h3>
