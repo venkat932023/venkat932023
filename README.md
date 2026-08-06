@@ -4,7 +4,7 @@
 
 🚀 Passionate Java Full Stack Developer with a strong foundation in building scalable and user-friendly web applications. I enjoy transforming ideas into real-world solutions through clean, efficient, and maintainable code.
 
-🌱 Currently expanding my expertise in **Spring Boot**, **Angular**, **REST APIs**, **Microservices**, and **Cloud Technologies** while continuously improving my problem-solving skills.
+🌱 Currently expanding my expertise in **Spring Boot**, **REST APIs**, **Microservices**, and **Cloud Technologies** while continuously improving my problem-solving skills.
 
 ## 🚀 About Me
 
@@ -39,7 +39,7 @@
 
 ### 🌐 Frontend
 
-🅰️ Angular • 🌐 HTML5 • 🎨 CSS3 • ⚡ JavaScript
+🌐 HTML5 • 🎨 CSS3 • ⚡ JavaScript
 
 ### ⚙️ Backend
 
